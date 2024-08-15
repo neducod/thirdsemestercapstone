@@ -1,5 +1,3 @@
-Of course! Here's a simple but detailed README for your Scissor project:
-
 ---
 
 # Scissor - URL Shortening Platform
