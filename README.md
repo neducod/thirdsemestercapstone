@@ -1,4 +1,3 @@
----
 
 # Scissor - URL Shortening Platform
 
